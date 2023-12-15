@@ -9,7 +9,7 @@ class A():
     #3 method
     def myName(self):
         print(f'my name is {self.name}')
-        print(f'my surname is {self.surname}')
+        print(f'my surname is {self.surname}')        
 
 #create class object 
 #classobject = ClassName
